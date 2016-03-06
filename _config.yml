@@ -2,6 +2,7 @@ name: Boxcaster
 favicon: null
 layout_spectrum: 0.73958
 typography_spectrum: 0.4146133742760867
+title: Boxcaster
 cta:
   domain: null
   bucket: null
