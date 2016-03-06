@@ -1,6 +1,6 @@
 name: Boxcaster
 favicon: null
-layout_spectrum: 0.73958
+layout_spectrum: 1
 typography_spectrum: 0.4146133742760867
 title: Boxcaster
 cta:
@@ -22,8 +22,8 @@ color:
     - '#0078ff'
     - '#db2426'
     - '#6b6b6b'
-  brandStrength: 0.3454547000583261
-  lightness: 0.40879842382855713
-  saturation: 0.06615655729547143
-  rhythmicContrast: 0.8153904296923429
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
